@@ -2,7 +2,7 @@
 
 
 ## Getting Started
-#Preview 
+
 
 ## Preview
 <img src='https://github.com/senthilmca90/mern-crud/blob/master/customers_api.gif?raw=true' alt='Preview'>
