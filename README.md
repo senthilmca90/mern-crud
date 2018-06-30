@@ -2,6 +2,10 @@
 
 
 ## Getting Started
+#Preview 
+
+## Preview
+<img src='https://github.com/senthilmca90/mern-crud/blob/master/customers_api.gif?raw=true' alt='Preview'>
 
 Express(server)
 ---------------
@@ -60,6 +64,11 @@ Output
 
 React-Rdux(client) - Side
 -------------------------
+
+
+## Preview
+<img src='https://github.com/senthilmca90/mern-crud/blob/master/Redux%20MERN%20CRUD%20Example%20.gif?raw=true' alt='Preview'>
+
 ```
 cd mern-crud/client
 npm install
