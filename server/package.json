@@ -1,0 +1,33 @@
+{
+  "name": "crud-server",
+  "version": "0.0.1",
+  "description": "express server for mern crud app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon hooked.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "express",
+    "server",
+    "mern",
+    "server",
+    "app"
+  ],
+  "author": "Bipin Swarnkar",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015-node6": "^0.4.0",
+    "babel-register": "^6.26.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.5",
+    "mongoose-sequence": "^4.0.1",
+    "morgan": "^1.9.0",
+    "source-map-support": "^0.4.18"
+  }
+}
